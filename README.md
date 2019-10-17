@@ -1,2 +1,3 @@
 # Spotify-Shuffler
-Running the shuffler.py script the desired playlist will be renewed by taking one random song from each artist of another playlist. 
+Running the shuffler.py script the desired playlist will be renewed by taking one random song from each artist of another playlist.
+The credentials should be filled in credentials.py.
